@@ -79,6 +79,8 @@ Once we have mapped the entire dataset, we can proceed with storing the data in 
 
 ## 3. Data Loading, Modelling and Cleaning using MySQL
 
+> _You can access the entire SQL script from this [link](https://github.com/diogosmferreira/olist_business_review/blob/main/olist_sql.sql)._
+
 Loading, modeling, and cleaning data in MySQL involves several important tasks to ensure that the data is organized, accurately represented, and free of errors. Let's delve into each of these tasks.
 
 The first step in this process was creating a dedicated SQL schema, which serves as a blueprint for the entire database. Next, the different tables were analyzed in order to define the appropriate data type for each column to ensure data integrity and efficient storage.
@@ -216,6 +218,8 @@ HAVING mql.mql_id IS NULL;
 ```
 
 ## 4. Data Modelling using Power BI
+
+> You can access the Power BI file from this [link](https://github.com/diogosmferreira/olist_business_review/blob/main/Olist%20Report.pbix).
 
 The process of data modeling in Power BI consisted of the following steps:
 
