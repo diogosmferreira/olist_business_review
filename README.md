@@ -250,7 +250,7 @@ _g)	Set up the dashboards with the appropriate visualization graphics that will 
 
 **Executive Dashboard**
 
-![image](https://github.com/diogosmferreira/olist_business_review/assets/129385224/b1e362e1-95d4-4a3b-9e14-9b0b0aeebacb)
+![image](https://github.com/diogosmferreira/olist_business_review/assets/129385224/cb4429e5-d7ab-4521-a888-b0baf7427bed)
 
 **Monthly Revenue –** In general, there is an upward trend with oscillations around the trend line. The month with the highest monthly revenue was November 2017, worth R$ 1.15 M. Since then there has been a slowdown, new peaks in monthly revenue have not been reached, and growth in the two months has been stagnant.
 
